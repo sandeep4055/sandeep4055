@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Hybrid-Electric Vehicles
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Kaggle
 - 🤔 I’m looking for help with Deep Learning & Computer Vision 
 - 💬 Ask me about Self Driving Cars
 - 📫 How to reach me: Linkedin-Sandeep Illuri
