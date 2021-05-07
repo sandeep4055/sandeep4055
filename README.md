@@ -1,6 +1,4 @@
 ### Hola , I'm Sandeep Illuri 👋
-
-- 🔭 I’m currently working on Hybrid-Electric Vehicles
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Kaggle
 - 🤔 I’m looking for help with Deep Learning & Computer Vision 
