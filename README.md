@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Kaggle
 - 🤔 I’m looking for help with Deep Learning & Computer Vision 
 - 💬 Ask me about Self Driving Cars
-- ⚡ Fun fact: I love to learn new things, and I embrace my inner nerd. 🤓
 
 ### Get in touch :coffee:
 ---
