@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Kaggle
-- 🤔 I’m looking for help with Deep Learning & Computer Vision 
-- 💬 Ask me about Self Driving Cars
-- 🤓 Data Nerd
+- 🤔 I’m looking for help with Deep Learning & Computer Vision.
 
 ### Get in touch :coffee:
 ---
